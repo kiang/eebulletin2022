@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+
+<title>選舉公報</title>
+</head>
+
+<style>
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2C0D0D;
+    font-weight: bold;
+    text-decoration: none;
+}
+</style>
+
+<body bgcolor="#F0EDE5">  <!-- 背景色設定 -->
+
+<br><br><br><br>
+ <font size=5>
+<div align=left style="padding:20px;background:#7A6763; color: #fff; font-size:28px; margin:0 calc(10% + 5px) 10px;"><a href="https://eebulletin.cec.gov.tw/">首頁</a> / <a href="https://eebulletin.cec.gov.tw/111">111</a> / <a href="https://eebulletin.cec.gov.tw/111/15宜蘭縣">宜蘭縣</a> / 鄉鎮市長</div><table width=80%  align=center><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="三星鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">三星鄉選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="五結鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">五結鄉選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="冬山鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">冬山鄉選舉公報</a></th><tr><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="南澳鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">南澳鄉選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="員山鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">員山鄉選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="壯圍鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">壯圍鄉選舉公報</a></th><tr><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="大同鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">大同鄉選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="宜蘭市選舉公報" style="color:#2C0D0D; text-decoration:unset;">宜蘭市選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="礁溪鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">礁溪鄉選舉公報</a></th><tr><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="羅東鎮選舉公報" style="color:#2C0D0D; text-decoration:unset;">羅東鎮選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="蘇澳鄉選舉公報" style="color:#2C0D0D; text-decoration:unset;">蘇澳鄉選舉公報</a></th><th width=20% height=40px align=left bgcolor="#fff" style="color:#fff; padding:20px; border:5px solid #f0ede5;";><a href="頭城鎮選舉公報" style="color:#2C0D0D; text-decoration:unset;">頭城鎮選舉公報</a></th><tr></table ></font>
+</body>
+</html>
