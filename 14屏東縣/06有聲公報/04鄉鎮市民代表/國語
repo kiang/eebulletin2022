@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+
+<title>有聲公報</title>
+</head>
+
+<style>
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2C0D0D;
+    font-weight: bold;
+    text-decoration: none;
+}
+</style>
+
+<body bgcolor="#F0EDE5">  <!-- 背景色設定 -->
+
+<br><br><br><br>
+ <font size=5>
+
+<div align=left style="padding:20px;background:#7A6763; color: #fff; font-size:28px; margin:0 calc(10% + 5px) 10px;"><a href="https://eebulletin.cec.gov.tw/">首頁</a> / <a href="https://eebulletin.cec.gov.tw/111">111</a> / <a href="https://eebulletin.cec.gov.tw/111/14屏東縣">屏東縣</a> / <a href="https://eebulletin.cec.gov.tw/111/14屏東縣/06有聲公報">有聲公報</a> / <a href="https://eebulletin.cec.gov.tw/111/14屏東縣/06有聲公報/04鄉鎮市民代表">鄉鎮市民代表</a> / 國語</div><table width=80%  align=center></table ></font>
+</body>
+</html>
