@@ -7,7 +7,7 @@ $limit = pow(1024, 2) * 500;
 $skip = pow(1024, 2) * 100;
 foreach ($lines as $line) {
     $size = filesize($line);
-    if($size > $skip) {
+    if ($size > $skip) {
         continue; //github don't like file larger than 100M
     }
     $currentSize += $size;
@@ -19,3 +19,6 @@ foreach ($lines as $line) {
         $currentSize = 0;
     }
 }
+
+exec("cd {$path} && /usr/bin/git commit --author 'auto commit <noreply@localhost>' -m 'auto update @ {$now}'");
+exec("cd {$path} && /usr/bin/git push origin master");
