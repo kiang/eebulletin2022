@@ -30,7 +30,6 @@ foreach ($lines as $line) {
             exec("/usr/bin/git add '{$zipFile}'");
         }
     }
-    continue;
 
     if ($currentSize > $limit) {
         $now = date('Y-m-d H:i:s');
